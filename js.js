@@ -2,7 +2,7 @@ var birds = []
 var deadBirds = []
 
 const population = 100
-const mutationRate = 0.05
+const mutationRate = 0.2
 let generation = 1
 var sel
 
